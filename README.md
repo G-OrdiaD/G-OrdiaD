@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @G-OrdiaD a Software Engineer
+- 👀 I’m interested in AI, Frontend
+- 🌱 I’m currently learning CSS, JavaScript, Figma
+- 💞️ I’m looking to collaborate on any project that will improve my skills in general 
+- 📫 How to reach me opafiegbe@yahoo.com
+- ⚡ Fun fact: I love gaming and someday will go into 3D, 5D and Augmented Reality
