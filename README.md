@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G-OrdiaD a Software Engineer wiht focus on Frontend 
+- 👋 Hi, I’m @G-OrdiaD a Software Engineer with focus on Frontend 
 - 👀 I’m interested in AI, ML
 - 🌱 I’m currently learning CSS, JavaScript, Figma, and upgrading in Python
 - 💞️ I’m looking to collaborate on any project that will improve my skills in general 
