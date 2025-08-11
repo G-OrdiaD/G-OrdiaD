@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning CSS, JavaScript, Figma, and upgrading in Python
 - 💞️ I’m looking to collaborate on any project that will improve my skills in general 
 - 📫 How to reach me opafiegbe@yahoo.com
-- ⚡ Fun fact: I love gaming and someday will go into 5D and AR
+- ⚡ Fun fact: I love gaming and someday will go into 5D and XR
