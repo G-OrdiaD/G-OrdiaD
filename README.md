@@ -5,7 +5,7 @@ I leverage a strong foundation in full-stack development to build and understand
 
 *   🔭 **I’m currently working on:** Deepening my expertise in cloud-native technologies and end-to-end automation.
 *   🌱 **I’m currently learning & improving:**
-    *   **DevOps & Systems:** Advanced Kubernetes, AWS Cloud, Infrastructure as Code (IaC) with Ansible, **Linux Systems Administration**.
+    *   **DevOps & Systems:** Advanced Kubernetes, AWS Cloud, Infrastructure as Code (IaC) with Ansible, Linux Systems Administration.
     *   **Development & Scripting:** Python for backend development & automation scripting, modern JavaScript.
     *   **UI/UX & Prototyping:** Figma and Bootstrap for designing and building intuitive interfaces.
 *   👯 **I’m looking to collaborate on:** Open-source DevOps tools, CI/CD pipeline projects, or full-stack applications with complex deployment needs.
